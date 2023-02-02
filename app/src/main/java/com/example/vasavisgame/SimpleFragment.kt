@@ -37,7 +37,7 @@ class SimpleFragment : Fragment() {
         val rootView = inflater.inflate(R.layout.fragment_simple, container, false)
 
         return inflater.inflate(R.layout.fragment_simple, container, false)
-    }
+    }//track
 
     companion object {
         /**
